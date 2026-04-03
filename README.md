@@ -1,8 +1,13 @@
 ## Hello :)
 
-My name is **Arsh Mathur,** and I am currently studying Engineering Physics at IIT, Madras. 
+My name is **Arsh Mathur,** and I am currently studying Engineering Physics at IIT Madras. 
 
+- I have recently started exploring the domain of AI/ML, and have worked on a bunch of stuff - mechanistic interpretability, computer vision for satellite imageery, a lot of hackathons too!
+- I love Linux systems, as they are really fascinating to me. I am slowly learning bash and how the kernel works, and someday I hope I'll set up my own Arch distro (btw)
+- I love studying physics, and would love to do something in that field if the opportunity arises. I am more of an implementation and tech kind of guy, so I would want to work with satellite systems or simulations! 
 
+You can reach out to me through mail/LinkedIn messages, would love to have a chat about anything actually! 
+Cheers :)
 
 <!--
 **rutherston18/rutherston18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
