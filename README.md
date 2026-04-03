@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello :)
+
+My name is **Arsh Mathur,** and I am currently studying Engineering Physics at IIT, Madras. 
+
+
 
 <!--
 **rutherston18/rutherston18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
